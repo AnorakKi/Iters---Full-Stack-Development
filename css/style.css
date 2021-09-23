@@ -1,0 +1,94 @@
+/*Clases*/
+.bg-orange{
+   background-color: rgb(255, 169, 9);
+}
+.texto-black{
+    color:black;
+}
+.mr-auto{
+    justify-content: right;
+}
+.c-images{
+    height: 15em;
+}
+.links{
+    padding-top: 0;
+    margin-right: -1em;
+    margin-left: 1.4em;
+}
+.navbar{
+    margin-top: -0.5em;
+    top: 0;
+    position: fixed;
+    width:100%;
+    z-index: 1;
+}
+.logo{
+    margin-left: -1.4em;
+    margin-top: -1em;
+}
+.brand{
+    height: 3.4em;
+    margin-top:-0.3em;
+    margin-bottom: 0.5em;
+}
+.card-img-top{
+    object-fit: contain;
+}
+.card-footer{
+    margin-top: -18em;
+}
+.card-body{
+    margin-bottom: 16em;
+    max-width: 100%;
+    max-height: 50%;
+}
+.card{
+   
+    padding: 0;
+}
+
+/*id*/
+#texto-busqueda{
+    width: 27em;
+}
+#logo-empresa{
+    width: 3.5rem;
+    padding-top: 0.3em;
+    padding-bottom: 0.7em;
+    margin-top: 0.2em;
+    margin-bottom: 0.3em;
+    margin-left: -0.5em;
+}
+#carousel-actividad-2{
+    height: 30em;
+}
+#logo-empresa:hover{
+    cursor: pointer;
+}
+
+/*Subclases*/
+button:hover{
+ background-color: grey;
+ border: 0.1em solid black;
+}
+a:hover{
+    color: black;
+}
+.card:hover{
+    border: solid 0.1em blue;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+/*tags*/
+button{
+    width: 7em;
+}
+
+
+
+
+
+
+
